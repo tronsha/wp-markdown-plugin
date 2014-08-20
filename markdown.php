@@ -12,7 +12,7 @@ License: MIT
 
 defined('ABSPATH') or die("No script kiddies please!");
 
-require_once(realpath(dirname(__FILE__) . 'library/Michelf/Markdown.inc.php'));
+require_once(realpath(dirname(__FILE__) . '/library/Michelf/Markdown.inc.php'));
 
 use \Michelf\Markdown;
 
