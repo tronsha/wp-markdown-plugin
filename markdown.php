@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Markdown
-Plugin URI: https://github.com/tronsha/wp-markdown
+Plugin URI: https://github.com/tronsha/wp-markdown-plugin
 Description: Markdown Plugin
 Version: 1.0
 Author: Stefan Hüsges
