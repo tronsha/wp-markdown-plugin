@@ -1,5 +1,4 @@
-WP Markdown
-===========
+# WordPress Markdown Plugin
 
 This plugin uses the PHP Markdown Lib from Michel Fortin
 
