@@ -10,7 +10,10 @@ Copyright: Stefan Hüsges
 License: MIT
 */
 
-defined('ABSPATH') or die("No script kiddies please!");
+if (!defined('ABSPATH')) {
+    header("HTTP/1.0 404 Not Found");
+    die;
+}
 
 require_once(realpath(dirname(__FILE__) . '/library/Michelf/Markdown.inc.php'));
 
