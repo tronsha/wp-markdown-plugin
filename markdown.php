@@ -1,14 +1,20 @@
 <?php
-/*
-Plugin Name: Markdown
-Plugin URI: https://github.com/tronsha/wp-markdown-plugin
-Description: Markdown Plugin
-Version: 1.0
-Author: Stefan Hüsges
-Author URI: http://www.mpcx.net/
-Copyright: Stefan Hüsges
-License: MIT
-*/
+/**
+ * @link              https://github.com/tronsha/wp-markdown-plugin
+ * @since             1.0.0
+ * @package           wp-markdown-plugin
+ *
+ * @wordpress-plugin
+ * Plugin Name:       MPCX Markdown
+ * Plugin URI:        https://github.com/tronsha/wp-markdown-plugin
+ * Description:       Markdown Plugin
+ * Version:           1.0.0
+ * Author:            Stefan Hüsges
+ * Author URI:        http://www.mpcx.net/
+ * Copyright:         Stefan Hüsges
+ * License:           MIT
+ * License URI:       https://raw.githubusercontent.com/tronsha/wp-markdown-plugin/master/LICENSE
+ */
 
 if (!defined('ABSPATH')) {
     header("HTTP/1.0 404 Not Found");
